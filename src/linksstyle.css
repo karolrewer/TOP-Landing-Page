@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: black;
+  }
+
+.responsive {
+    display: flex;
+    flex: auto;
+    max-width: 75%;
+    max-height: 100%;
+}
