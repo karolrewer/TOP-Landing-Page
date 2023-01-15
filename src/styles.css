@@ -293,3 +293,65 @@ a:link {
     font-weight: 900;
     font-size: 24px;
 }
+
+.section00e {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0%;
+    padding: 100px 0;
+    border: 0px;
+}
+
+.section05 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3882f6;
+    border-radius: 10px;
+    max-height: 150px;
+    height: 150px;
+    max-width: 995px;
+    width: 995px;
+    margin: auto;
+    gap: 160px;
+}
+
+.section05a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+.section05aa {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    display: flex;
+    text-align: left;
+}
+
+.section05ab {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    text-align: left;
+}
+
+.section05b {
+
+}
+
+.section05ba {
+    color: white;
+    display: table-cell;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 35px;
+    width: 120px;
+    text-align: center;
+    vertical-align: middle;
+}
