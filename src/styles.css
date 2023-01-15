@@ -255,7 +255,7 @@ a:link {
     justify-content: center;
     flex-direction: column;
     margin: 0%;
-    padding: 0 25% 0 25%;
+    
     border: 0px;
 }
 
@@ -265,6 +265,9 @@ a:link {
     flex-direction: column;
     justify-content: center;
     width: 790px;
+    max-width: 790px;
+    margin: auto;
+    padding: 0 100px;
 }
 
 .section04a {
@@ -280,7 +283,7 @@ a:link {
     padding: 10px 0px 10px 0px;
     width: 790px;
     display: flex;
-    text-align: flex-start;
+    text-align: left;
     font-style: italic;
     font-weight: 300;
 }
