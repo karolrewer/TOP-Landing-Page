@@ -355,3 +355,15 @@ a:link {
     text-align: center;
     vertical-align: middle;
 }
+
+.section06 {
+    height: 90px;
+    width: 400px;
+    color: #E5E7EB;
+    font-size: 17px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    align-items: center;
+}
